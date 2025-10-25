@@ -7,7 +7,7 @@ import time
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_OWNER = "fahim12064"
-GITHUB_REPO = "NU-Notice-Bot-Updated-"
+GITHUB_REPO = "NU-NOTICE-BOT-"
 WORKFLOW_FILE = "main.yml"
 REF = "main"
 
